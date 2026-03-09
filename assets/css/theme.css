@@ -1,0 +1,39 @@
+.navbar-default{
+    background-color:#2cabff; 
+    border-color:#2cabff}
+
+.navbar-default .navbar-nav > li > a:hover{
+    background-color:#fff; 
+    color:#2cabff; 
+    border-color:#2cabff}
+
+.bold_line span{
+    background-color:#2cabff}
+
+.catg1_nav li .post_titile a:hover{
+    color:#2cabff}
+
+.content_middle_middle:after{
+    background-color:#2cabff}
+
+.content_middle_middle:before{
+    background-color:#2cabff}
+
+.single_featured_slide > h2 a:hover{
+    color:#2cabff}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus{
+    color:#2cabff}
+
+.single_bottom_rightbar > h2{
+    border-bottom:3px solid #2cabff}
+    
+
+.catg_titile a:hover{
+    color:#2cabff}
+
+.media-heading a:hover{
+    color:#2cabff}
+
+.single_footer_top > h2{
+    color:#2cabff}
